@@ -23,6 +23,32 @@ VOS PDF → TRAITEMENT LOCAL → DOCUMENT CONSULTABLE
               └── aucun téléversement externe
 ```
 
+## Parcours visuel
+
+### 1. Sélectionner la source des PDF
+
+Choisissez **Upload files** pour sélectionner manuellement les documents ou
+**Local folder** pour charger les PDF d'un dossier local de confiance. Le
+bouton **Upload**, mis en évidence, ouvre le sélecteur de fichiers du système.
+
+![Sélection de la source des PDF et bouton de téléversement](assets/screenshots/01-select-pdf-source.png)
+
+### 2. Ajouter des documents et configurer la fusion
+
+Le bouton **+** permet d'ajouter d'autres PDF sans redémarrer l'application.
+Définissez le nom du fichier de sortie, activez les signets ou l'OCR selon vos
+besoins, sélectionnez les langues d'OCR, puis cliquez sur **Merge PDFs**.
+
+![Ajout de PDF, options de sortie, OCR et bouton Merge PDFs](assets/screenshots/02-configure-and-merge.png)
+
+### 3. Télécharger le résultat
+
+Lorsque la fusion est terminée, le bouton **Download PDF** apparaît à côté du
+bouton de fusion. Le message de confirmation indique le nombre total de pages
+du document final.
+
+![Bouton Download PDF après une fusion réussie](assets/screenshots/03-download-result.png)
+
 ## Fonctionnalités
 
 ### Fusion de PDF

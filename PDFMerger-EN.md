@@ -22,6 +22,32 @@ YOUR PDFs → LOCAL PROCESSING → SEARCHABLE OUTPUT
                  └── no external upload
 ```
 
+## Visual walkthrough
+
+### 1. Select the PDF source
+
+Choose **Upload files** to select documents manually, or **Local folder** to
+load PDFs from a trusted directory. The highlighted **Upload** button opens
+the system file picker.
+
+![PDF source selection and upload button](assets/screenshots/01-select-pdf-source.png)
+
+### 2. Add documents and configure the merge
+
+Use the **+** control to append more PDF files without restarting the
+application. Set the output filename, enable bookmarks or OCR when needed,
+select the OCR languages, and then click **Merge PDFs**.
+
+![Additional PDF upload, output options, OCR, and Merge PDFs button](assets/screenshots/02-configure-and-merge.png)
+
+### 3. Download the result
+
+After the merge completes, the **Download PDF** button appears beside the
+merge control. The success message confirms the number of pages in the final
+document.
+
+![Download PDF button after a successful merge](assets/screenshots/03-download-result.png)
+
 ## Features
 
 ### PDF merging

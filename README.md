@@ -21,6 +21,34 @@ réordonner et de fusionner localement des collections de PDF.
 
 ---
 
+## Visual workflow / Parcours visuel
+
+### 1. Select a source / Sélectionner une source
+
+Choose between uploaded files and a local folder, then add the PDFs.
+
+Choisissez le téléversement ou un dossier local, puis ajoutez les PDF.
+
+![Select a PDF source and upload files](assets/screenshots/01-select-pdf-source.png)
+
+### 2. Configure and merge / Configurer et fusionner
+
+Add more PDFs, choose the output options, and start the merge.
+
+Ajoutez d'autres PDF, configurez les options de sortie et lancez la fusion.
+
+![Configure PDF Merger and start the merge](assets/screenshots/02-configure-and-merge.png)
+
+### 3. Download / Télécharger
+
+Download the completed PDF when processing finishes.
+
+Téléchargez le PDF final lorsque le traitement est terminé.
+
+![Download the completed merged PDF](assets/screenshots/03-download-result.png)
+
+---
+
 ## Quick start / Démarrage rapide
 
 ### Kali Linux / Debian
