@@ -123,13 +123,14 @@ def run_ocr(
     output_path = output_dir / f"ocr_{safe_name}.pdf"
 
     ocrmypdf.ocr(
-        input_file=str(input_path),
-        output_file=str(output_path),
-        language="+".join(language_codes),
+        str(input_path),
+        str(output_path),
+        language=language_codes,
         deskew=True,
         rotate_pages=True,
         skip_text=True,
         optimize=1,
+        progress_bar=False,
     )
     return output_path
 
